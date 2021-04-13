@@ -8,6 +8,6 @@ some song lyrics to get you started.
 
 To execute, fill in your GMail username and password as indicated in the
 comments in LyricsSpammer.py. Important: You need to allow your Google account
-to use "Less Secure Apps." Instructions on how to do so are linked below. Have fun!
+to use "Less Secure Apps." Instructions on how to do so are linked below.
 
 https://support.google.com/accounts/answer/6010255?hl=en
