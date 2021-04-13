@@ -8,7 +8,7 @@ iMessage or GroupMe text bar and right-click. You'll have two seconds after
 starting the program before lines begin to printing.
 
 Be careful! The program will continue printing lines until it is terminated
-manually or until it reaches the end of file——irregardless of where the cursor
+manually or until it reaches the end of file——regardless of where the cursor
 is placed.
 
 In this repo you'll find some text files to get you started.
