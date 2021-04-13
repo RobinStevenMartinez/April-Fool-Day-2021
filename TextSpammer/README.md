@@ -11,4 +11,4 @@ Be careful! The program will continue printing lines until it is terminated
 manually or until it reaches the end of file——irregardless of where the cursor
 is placed.
 
-In this repo you'll find some text files to get you started. Have fun!
+In this repo you'll find some text files to get you started.
