@@ -1,3 +1,7 @@
+# LyricSpammer.py
+# Robin Martinez
+# 04/13/2021
+
 import smtplib
 from email.message import EmailMessage
 
