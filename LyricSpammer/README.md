@@ -2,7 +2,7 @@
 ## By Robin Martinez 
 April 13, 2021
 
-This program, written for an April Fool's Day prank, can be used to email the
+LyricSpammer.py is the perfect April Fool's Day prank. With it, you email the
 contents of a file to your friends (or enemies) one line at a time. I've attached
 some song lyrics to get you started.
 
